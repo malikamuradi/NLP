@@ -1,20 +1,18 @@
 # README.txt
-Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
-https://www.overleaf.com/3478575924kttkhwywtvxc
 
 Link to unlisted YouTube video:
-https://youtu.be/k2-AKpEtsu0 
+https://youtu.be/97TuZTfr6c4 
 
 Public link to the slide (Anyone on the internet can view without login):
-(https://arxiv.org/ftp/arxiv/papers/2212/2212.06041.pdf)
+https://docs.google.com/presentation/d/1lXY12jgiEoLaoZt3Lse_srrFQ5oILARA/edit#slide=id.p1
 
-Project title:
-Market Demand Analysis Using NLP in Persian and Urdu Language.
+Paper title:
+Sentiment Analysis of Persian Language: Review of Algorithms, Approaches and Datasets
 
 Group Number:
 01
 
-Group Members:
+Individual Submitter:
 21241057 Malika Muradi
-21141064 Basit Hussain
+
 
