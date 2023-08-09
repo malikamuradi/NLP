@@ -6,15 +6,10 @@ Unlisted YouTube video:
 http://youtube....
 
 Paper title:
-Partially automated exam answer script checking for Intro to Marketing
+Market demand analysis using NLP in Urdu Language
 
-Paper presentation (anyone can view without login):
-http://slides.google.com/
 
 Group Number:
-0
+01
 
 Group Members:
-12345678 Name A
-23456789 Name B
-34567890 Name C
