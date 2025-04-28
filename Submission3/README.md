@@ -1,5 +1,3 @@
-Link to unlisted YouTube video:
-https://youtu.be/YmqjgV3Zk78 
 
 Two public links to the Concept Map (anyone on the internet can view without login):
 https://github.com/BasitHussain5/NLP/blob/main/submission3/Task03_group01.pdf
