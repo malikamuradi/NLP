@@ -1,8 +1,5 @@
 # README.txt
 
-Link to unlisted YouTube video:
-https://youtu.be/97TuZTfr6c4 
-
 Public link to the slide (Anyone on the internet can view without login):
 https://docs.google.com/presentation/d/1lXY12jgiEoLaoZt3Lse_srrFQ5oILARA/edit#slide=id.p1
 
