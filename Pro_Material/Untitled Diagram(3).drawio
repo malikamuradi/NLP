@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" modified="2023-09-02T05:14:29.215Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="En3SstCIbg2R3xdTX-fo" version="21.6.9" type="google">
+  <diagram name="Page-1" id="fuXdf31PwUrMaEPNrdIZ">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0f4bXaxpqCLOSyks3eZV-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0f4bXaxpqCLOSyks3eZV-1" target="0f4bXaxpqCLOSyks3eZV-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0f4bXaxpqCLOSyks3eZV-1" value="Data collection" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="100" y="160" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0f4bXaxpqCLOSyks3eZV-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0f4bXaxpqCLOSyks3eZV-2" target="0f4bXaxpqCLOSyks3eZV-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0f4bXaxpqCLOSyks3eZV-2" value="Pre-processing" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="100" y="240" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0f4bXaxpqCLOSyks3eZV-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0f4bXaxpqCLOSyks3eZV-3" target="0f4bXaxpqCLOSyks3eZV-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0f4bXaxpqCLOSyks3eZV-3" value="Data Split" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="280" y="240" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0f4bXaxpqCLOSyks3eZV-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0f4bXaxpqCLOSyks3eZV-4" target="0f4bXaxpqCLOSyks3eZV-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0f4bXaxpqCLOSyks3eZV-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0f4bXaxpqCLOSyks3eZV-4" target="0f4bXaxpqCLOSyks3eZV-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0f4bXaxpqCLOSyks3eZV-4" value="Classification Modelling" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="460" y="240" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0f4bXaxpqCLOSyks3eZV-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0f4bXaxpqCLOSyks3eZV-5" target="0f4bXaxpqCLOSyks3eZV-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0f4bXaxpqCLOSyks3eZV-5" value="Implementation of Explainabale AI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="640" y="240" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0f4bXaxpqCLOSyks3eZV-6" value="&lt;ol&gt;&lt;li&gt;Logistic regression&lt;/li&gt;&lt;li&gt;Naive bayes&lt;/li&gt;&lt;li&gt;SVM&lt;/li&gt;&lt;li&gt;Random Forest&lt;br&gt;&lt;/li&gt;&lt;li&gt;Gradient Boosting&lt;br&gt;&lt;/li&gt;&lt;li&gt;CNN&lt;/li&gt;&lt;li&gt;RNN&lt;/li&gt;&lt;li&gt;Bi LSTM&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="460" y="310" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="0f4bXaxpqCLOSyks3eZV-8" value="&lt;ol&gt;&lt;li&gt;LIME&lt;/li&gt;&lt;li&gt;SHAP&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="655" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
